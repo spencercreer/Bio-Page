@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;  
-    background:#efeee7;
+    background:#d9dcd6;
     color: #333;
     line-height: 150%;
     font-size: 16pt;
@@ -9,7 +9,7 @@ body{
 }
 
 header {
-    background: #d21034;
+    background: #2a607c;
 }
 
 h1{
@@ -17,7 +17,6 @@ h1{
     margin 0;
     margin-bottom 20px;
     text-align: center;
-    background: #333;
     font-size: 28px;
     color: #eee;
 }
